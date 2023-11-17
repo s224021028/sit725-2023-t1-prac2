@@ -1,0 +1,26 @@
+{
+  "name": "sit725-2023-t1-prac2",
+  "version": "1.0.0",
+  "description": "SIT 725 T2 week 2 prac",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s224021028/sit725-2023-t1-prac2.git"
+  },
+  "author": "Pavan Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s224021028/sit725-2023-t1-prac2/issues"
+  },
+  "homepage": "https://github.com/s224021028/sit725-2023-t1-prac2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
